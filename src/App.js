@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         test AWS Code Pipeline!
+         AWS Code Pipeline test
         </p>
         <a
           className="App-link"
